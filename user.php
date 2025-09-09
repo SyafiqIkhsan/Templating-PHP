@@ -1,5 +1,5 @@
 <?php
-include ('templates/header.php');
+include ('./templates/header.php');
 ?>
 <!--begin::App Main-->
       <main class="app-main">
@@ -114,5 +114,5 @@ include ('templates/header.php');
       <!--end::App Main-->
 
 <?php
-include ('templates/footer.php');
+include ('./templates/footer.php');
 ?>

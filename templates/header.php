@@ -242,7 +242,7 @@
               <li class="nav-item">
                 <a href="laporan.php" class="nav-link">
                   <i class="nav-icon bi bi-palette"></i>
-                  <p>Laporan</p>
+                  <p>Report</p>
                 </a>
               </li>
               </li>

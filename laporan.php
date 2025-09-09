@@ -70,7 +70,6 @@ include ('./templates/header.php')
         <div class="card">
           <div class="card-header d-flex justify-content-between">
             <strong>Produk</strong>
-            <a href="#">Selengkapnya</a>
           </div>
           <div class="card-body p-0">
             <table class="table table-bordered m-0">
@@ -85,32 +84,18 @@ include ('./templates/header.php')
               </thead>
               <tbody>
                 <tr>
-                  <td>Et eos.</td>
-                  <td>Soluta quasi.</td>
-                  <td>79,141</td>
-                  <td>81,141</td>
-                  <td>43</td>
+                  <td>RTX 3060ti</td>
+                  <td>Computers</td>
+                  <td>Rp5.500.000</td>
+                  <td>Rp6.000.000</td>
+                  <td>30</td>
                 </tr>
                 <tr>
-                  <td>Reiciendis ratione.</td>
-                  <td>Sint neque.</td>
-                  <td>22,636</td>
-                  <td>24,636</td>
-                  <td>42</td>
-                </tr>
-                <tr>
-                  <td>Consequatur quia et.</td>
-                  <td>Rerum.</td>
-                  <td>74,170</td>
-                  <td>76,170</td>
-                  <td>39</td>
-                </tr>
-                <tr>
-                  <td>Amet laudantium iure.</td>
-                  <td>Soluta quasi.</td>
-                  <td>42,269</td>
-                  <td>44,269</td>
-                  <td>13</td>
+                  <td>Couch</td>
+                  <td>Household</td>
+                  <td>1.150.000</td>
+                  <td>1.200.000</td>
+                  <td>20</td>
                 </tr>
               </tbody>
             </table>
@@ -123,7 +108,6 @@ include ('./templates/header.php')
         <div class="card">
           <div class="card-header d-flex justify-content-between">
             <strong>Users</strong>
-            <a href="#">Selengkapnya</a>
           </div>
           <div class="card-body p-0">
             <table class="table table-bordered m-0">
@@ -137,22 +121,22 @@ include ('./templates/header.php')
               </thead>
               <tbody>
                 <tr>
-                  <td>Isengoding</td>
-                  <td>admin@admin.com</td>
+                  <td>anon1</td>
+                  <td>anon1@gmail .com</td>
                   <td>admin</td>
-                  <td><span class="badge bg-success">Aktif</span></td>
+                  <td><span class="badge bg-success">Active</span></td>
                 </tr>
                 <tr>
-                  <td>Tomiko Van</td>
-                  <td>user1@example.com</td>
-                  <td>kasir</td>
-                  <td><span class="badge bg-success">Aktif</span></td>
+                  <td>anon2</td>
+                  <td>anon2@gmail.com</td>
+                  <td>admin</td>
+                  <td><span class="badge bg-success">Active</span></td>
                 </tr>
                 <tr>
-                  <td>Elder Titan</td>
-                  <td>user2@example.com</td>
+                  <td>anon</td>
+                  <td>anon3@gmail.com</td>
                   <td>admin</td>
-                  <td><span class="badge bg-secondary">Nonaktif</span></td>
+                  <td><span class="badge bg-secondary">Active</span></td>
                 </tr>
               </tbody>
             </table>
@@ -161,10 +145,6 @@ include ('./templates/header.php')
       </div>
     </div>
 
-    <!-- Footer -->
-    <div class="text-end mt-4">
-      <small>Starter App Laravel 7 & Admin LTE 3 | Ver 1.0</small>
-    </div>
 
   </div>
 
